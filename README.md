@@ -1,4 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=soft&height=30&&color=0:58a6ff,5:0969da,95:0969da,100:58a6ff">
 
  
 <div align="center" >
@@ -14,4 +13,3 @@
  
 </div>
 <br>
-<img width=100% src="https://capsule-render.vercel.app/api?type=soft&height=30&&color=0:58a6ff,5:0969da,95:0969da,100:58a6ff">
