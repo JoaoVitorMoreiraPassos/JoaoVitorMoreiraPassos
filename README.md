@@ -13,5 +13,3 @@
  
 </div>
 <br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVitorMoreiraPassos&count_private=true)
